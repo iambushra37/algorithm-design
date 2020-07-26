@@ -1,2 +1,2 @@
-# algorithm-design
-creating our own algorithms and library.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
